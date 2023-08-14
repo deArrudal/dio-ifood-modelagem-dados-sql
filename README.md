@@ -21,21 +21,27 @@ MODELAGEM DE DADOS E PROJETOS LÓGICOS NA PRÁTICA COM SQL
 ├── E-commerce
 │   ├── database_and_queries
 │   ├── images
-│   ├── err_model
+│   ├── eer_model
+├── E-commerce modified
+│   ├── database_and_queries
+│   ├── images
+│   ├── eer_model
 ├── Repair Shop
 │   ├── database_and_queries
 │   ├── images
-│   ├── err_model
+│   ├── eer_model
 ├── SQL Examples
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ````
 
-### ERR models
+### EER models
 
 * **E-commerce**
-![E-commerce ERR Model](.\E-commerce\images\ecommerce_model_layout.PNG)
+![E-commerce EER Model](https://github.com/deArrudal/dio-ifood-modelagem-dados-sql/blob/main/E-commerce/images/ecommerce_model_layout.PNG)
+* **E-commerce modified**
+![E-commerce EER Model](https://github.com/deArrudal/dio-ifood-modelagem-dados-sql/blob/main/E-commerce/images/ecommerce_model_layout.PNG)
 * **Repair Shop**
     
 ## Authors
@@ -47,9 +53,7 @@ MODELAGEM DE DADOS E PROJETOS LÓGICOS NA PRÁTICA COM SQL
 * 0.1
     * Initial Release
 *0.2
-    * Development of the project "Banking System"
-* 0.3
-    * Add function and collection files
+    * Add updated version of E-commerce database
 
 ## License
 
